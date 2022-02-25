@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: coral;
+}
+
+#numb{
+    height: 30px;
+    margin: 3px;
+    text-align: center;
+    font-size: 20px;
+    width: 150px;
+}
+
+.btn{
+    padding: 10px;
+    background: cornflowerblue;
+    border: none;
+    color: #fff;
+    border-radius: 10px;
+}
